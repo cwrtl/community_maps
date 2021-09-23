@@ -20060,85 +20060,85 @@
 			<Actor seed="44750"/>
 		</Entity>
 		<Entity uid="3092">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="264.23917" z="326.23084"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="1722"/>
 		</Entity>
 		<Entity uid="3093">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="378.32892" z="429.09491"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="10096"/>
 		</Entity>
 		<Entity uid="3094">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="356.1595" z="509.78257"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="15144"/>
 		</Entity>
 		<Entity uid="3095">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="499.1327" z="407.89606"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="55770"/>
 		</Entity>
 		<Entity uid="3096">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="490.10111" z="497.56482"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="15894"/>
 		</Entity>
 		<Entity uid="3097">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="647.05024" z="346.81565"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="26314"/>
 		</Entity>
 		<Entity uid="3098">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="656.47657" z="273.04209"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="10574"/>
 		</Entity>
 		<Entity uid="3099">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="877.12281" z="470.22632"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="62780"/>
 		</Entity>
 		<Entity uid="3100">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="874.05774" z="446.88984"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="31464"/>
 		</Entity>
 		<Entity uid="3101">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="525.34894" z="0"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="16856"/>
 		</Entity>
 		<Entity uid="3102">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="182.18528" z="318.74366"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="10258"/>
 		</Entity>
 		<Entity uid="3103">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="267.14527" z="329.09513"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="31664"/>
 		</Entity>
 		<Entity uid="3104">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="956.44385" z="497.53803"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="51152"/>
 		</Entity>
 		<Entity uid="3105">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="848.95191" z="559.00983"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="32994"/>

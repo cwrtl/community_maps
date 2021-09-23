@@ -4076,31 +4076,31 @@
 			<Actor seed="4186"/>
 		</Entity>
 		<Entity uid="620">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="214.40485" z="272.2415"/>
 			<Orientation y="-0.80842"/>
 			<Actor seed="62996"/>
 		</Entity>
 		<Entity uid="621">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="301.3885" z="232.29426"/>
 			<Orientation y="1.52213"/>
 			<Actor seed="38692"/>
 		</Entity>
 		<Entity uid="622">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="289.4155" z="295.52906"/>
 			<Orientation y="0.83342"/>
 			<Actor seed="7630"/>
 		</Entity>
 		<Entity uid="623">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="283.62748" z="150.09958"/>
 			<Orientation y="2.84478"/>
 			<Actor seed="56216"/>
 		</Entity>
 		<Entity uid="624">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="239.15421" z="9.78437"/>
 			<Orientation y="0.57949"/>
 			<Actor seed="32444"/>

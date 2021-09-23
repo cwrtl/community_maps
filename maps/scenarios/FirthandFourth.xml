@@ -93388,13 +93388,13 @@
 			<Actor seed="65090"/>
 		</Entity>
 		<Entity uid="14142">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="205.01554" z="685.59717"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="61100"/>
 		</Entity>
 		<Entity uid="14143">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="216.1316" z="690.35859"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="14636"/>

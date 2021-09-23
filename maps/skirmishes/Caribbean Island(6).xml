@@ -6250,61 +6250,61 @@
 			<Actor seed="36239"/>
 		</Entity>
 		<Entity uid="924">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="703.76557" z="733.02271"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="56453"/>
 		</Entity>
 		<Entity uid="925">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="586.66657" z="677.90033"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="46278"/>
 		</Entity>
 		<Entity uid="926">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="591.1388" z="549.95685"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="18363"/>
 		</Entity>
 		<Entity uid="927">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="813.99445" z="659.08631"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="2453"/>
 		</Entity>
 		<Entity uid="928">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="880.72138" z="672.36121"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="21152"/>
 		</Entity>
 		<Entity uid="929">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="894.65625" z="681.98597"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="52737"/>
 		</Entity>
 		<Entity uid="930">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="473.2274" z="650.46839"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="49240"/>
 		</Entity>
 		<Entity uid="931">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="445.44275" z="679.79407"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="65182"/>
 		</Entity>
 		<Entity uid="932">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="425.89872" z="679.04688"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="14364"/>
 		</Entity>
 		<Entity uid="933">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="429.3791" z="665.91797"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="31807"/>

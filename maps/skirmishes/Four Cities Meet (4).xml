@@ -10001,25 +10001,25 @@
 			<Actor seed="56103"/>
 		</Entity>
 		<Entity uid="1489">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="840.14637" z="147.90986"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="36002"/>
 		</Entity>
 		<Entity uid="1490">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="830.90094" z="159.19187"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="7502"/>
 		</Entity>
 		<Entity uid="1491">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="823.00763" z="143.19785"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="8351"/>
 		</Entity>
 		<Entity uid="1492">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="479.68091" z="276.04212"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="33963"/>
@@ -10431,7 +10431,7 @@
 			<Actor seed="45945"/>
 		</Entity>
 		<Entity uid="1551">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="432.94684" z="815.83497"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="18284"/>

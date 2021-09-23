@@ -50257,13 +50257,13 @@
 			<Actor seed="27148"/>
 		</Entity>
 		<Entity uid="9723">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="891.53531" z="1600.91781"/>
 			<Orientation y="1.00434"/>
 			<Actor seed="2574"/>
 		</Entity>
 		<Entity uid="9724">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="962.93682" z="2112.24201"/>
 			<Orientation y="0.35801"/>
 			<Actor seed="24825"/>
@@ -50444,19 +50444,19 @@
 			<Actor seed="46260"/>
 		</Entity>
 		<Entity uid="9750">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="214.90392" z="420.21108"/>
 			<Orientation y="3.33965"/>
 			<Actor seed="6268"/>
 		</Entity>
 		<Entity uid="9751">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="377.93636" z="815.90734"/>
 			<Orientation y="0.00162"/>
 			<Actor seed="53475"/>
 		</Entity>
 		<Entity uid="9752">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="448.04178" z="661.24158"/>
 			<Orientation y="-1.52923"/>
 			<Actor seed="6106"/>

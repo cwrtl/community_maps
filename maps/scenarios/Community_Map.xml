@@ -3897,7 +3897,7 @@
 			<Actor seed="53024"/>
 		</Entity>
 		<Entity uid="820">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="569.61341" z="865.47315"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="15444"/>

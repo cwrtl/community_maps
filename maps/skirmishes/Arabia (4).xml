@@ -2314,13 +2314,13 @@
 			<Actor seed="61074"/>
 		</Entity>
 		<Entity uid="327">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="306.79743" z="332.25843"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="56974"/>
 		</Entity>
 		<Entity uid="328">
-			<Template>gaia/fauna_hawk</Template>
+			<Template>birds/buzzard</Template>
 			<Position x="787.21338" z="630.45234"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="23696"/>
